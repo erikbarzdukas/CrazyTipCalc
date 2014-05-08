@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrazyTipCalc</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_view_bill">Bill</string>
+    <string name="edit_text_bill">0.0</string>
+
+    <string name="text_view_tip">Tip</string>
+    <string name="edit_text_tip">.15</string>
+
+    <string name="text_view_final">Final Bill</string>
+    <string name="edit_text_final_bill">.15</string>
+
+    <string name="text_view_change_tip">Tip</string>
+
+    <string name="text_view_intro">Introduction</string>
+    <string name="text_view_intro_friendly">Friendly</string>
+    <string name="text_view_intro_specials">Specials</string>
+    <string name="text_view_intro_opinion">Opinion</string>
+
+    <string name="text_view_availability">Availability</string>
+    <string name="radio_button_available_good">Good</string>
+    <string name="radio_button_available_ok">OK</string>
+    <string name="radio_button_available_bad">Bad</string>
+
+    <string name="text_view_time_waiting">Time Waiting For Service</string>
+    <string name="chronometer_button_start">Start</string>
+    <string name="chronometer_button_pause">Pause</string>
+    <string name="chronometer_button_reset">Reset</string>
+
+    <string-array name="problem_solving">
+        <item>Problem Solving</item>
+        <item>Bad</item>
+        <item>OK</item>
+        <item>Good</item>
+    </string-array>
+
+</resources>
