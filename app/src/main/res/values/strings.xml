@@ -30,6 +30,12 @@
     <string name="chronometer_button_pause">Pause</string>
     <string name="chronometer_button_reset">Reset</string>
 
+    <string name="hint_friendly">Waiter/Waitress was friendly</string>
+    <string name="hint_specials">Waiter/Waitress discussed the specials</string>
+    <string name="hint_opinion">Waiter/Waitress gave opinion on food if asked</string>
+
+
+
     <string-array name="problem_solving">
         <item>Problem Solving</item>
         <item>Bad</item>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryRed">#FF2C00</color>
+    <color name="SecondaryOrange">#FF8500</color>
+    <color name="SecondaryBlue">#0776A0</color>
+    <color name="ComplementaryGreen">#00B945</color>
+    <color name="Black">#000000</color>
+    <color name="BackgroundBlue">#62B1D0</color>
+</resources>
